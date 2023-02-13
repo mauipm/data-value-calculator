@@ -130,5 +130,6 @@ dmypy.json
 /.venv
 
 ss.ipynb
-*.xlsx
-*.csv
+/backup
+/datasets
+/exports/figures
